@@ -1,2 +1,2 @@
 open:
-	pipenv run jupyter lab
+	pipenv run jupyter lab --port 8889
